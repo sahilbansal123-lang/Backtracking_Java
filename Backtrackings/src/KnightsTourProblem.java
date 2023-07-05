@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NKnightsProblem {
+public class KnightsTourProblem {
     
 
 
